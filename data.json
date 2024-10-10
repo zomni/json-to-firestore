@@ -1,0 +1,74 @@
+{
+    "asignaturas": {
+      "matematicas_basicas": {
+        "nombre": "Matemáticas Básicas"
+      },
+      "fisica_general": {
+        "nombre": "Física General"
+      },
+      "quimica_general": {
+        "nombre": "Química General"
+      },
+      "ingles": {
+        "nombre": "Inglés"
+      },
+      "comunicacion": {
+        "nombre": "Comunicación"
+      },
+      "programacion_fundamentos": {
+        "nombre": "Fundamentos de Programación"
+      },
+      "sistemas_operativos": {
+        "nombre": "Sistemas Operativos"
+      },
+      "redes_computacionales": {
+        "nombre": "Redes Computacionales"
+      },
+      "bases_datos": {
+        "nombre": "Bases de Datos"
+      },
+      "matematicas_discretas": {
+        "nombre": "Matemáticas Discretas"
+      },
+      "ingenieria_de_software": {
+        "nombre": "Ingeniería de Software"
+      },
+      "calculo_integral": {
+        "nombre": "Cálculo Integral"
+      },
+      "algebra_lineal": {
+        "nombre": "Álgebra Lineal"
+      },
+      "teoria_de_control": {
+        "nombre": "Teoría de Control"
+      },
+      "fisica_aplicada": {
+        "nombre": "Física Aplicada"
+      },
+      "biologia": {
+        "nombre": "Biología"
+      },
+      "estadistica": {
+        "nombre": "Estadística"
+      },
+      "gestion_de_proyectos": {
+        "nombre": "Gestión de Proyectos"
+      },
+      "emprendimiento": {
+        "nombre": "Emprendimiento"
+      },
+      "metodologia_de_la_investigacion": {
+        "nombre": "Metodología de la Investigación"
+      },
+      "etica_profesional": {
+        "nombre": "Ética Profesional"
+      },
+      "habilidades_blandas": {
+        "nombre": "Habilidades Blandas"
+      },
+      "diseno_grafico": {
+        "nombre": "Diseño Gráfico"
+      }
+    }
+  }
+  
